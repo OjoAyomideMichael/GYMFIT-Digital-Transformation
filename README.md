@@ -59,4 +59,4 @@ The development was structured around four high-level administrative pillars:
 * **Budget & Timeline Governance:** Delivered full scoping, wireframing, and Agile sprint coordination within the £120,000 budget and 12-week delivery lifecycle[cite: 13, 24].
 
 ---
-*Delivered by the 7ven Oaks Development Team[cite:13].*
+
